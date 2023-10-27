@@ -1,0 +1,9 @@
+MavenProjectFramework\PageObject\ConfirmationPage.class
+MavenProjectFramework\PageObject\CheckoutPage.class
+MavenProjectFramework\PageObject\LoginPage.class
+MavenProjectFramework\PageObject\OrderSummary.class
+MavenProjectFramework\PageObject\PlaceOrder.class
+MavenProjectFramework\PageObject\OrdersPage.class
+MavenProjectFramework\PageObject\ProductsPage.class
+MavenProjectFramework\reusablecomponents\Reusable.class
+MavenProjectFramework\pro\ExtentReportUtility.class
